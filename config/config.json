@@ -1,0 +1,13 @@
+{
+    "prefix": "gbo!",
+    "token": "ODYwNTM0Njk3NTkxNDM5Mzgw.YN8pYw.t3ZXhaduSSkcVSyZrbFVMN1Y4YU",
+    "mongoose": "mongo_db_url",
+    "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📜",
+        "success": "✔️",
+        "repeat": "🔁",
+        "error": "❌"
+    }
+}
